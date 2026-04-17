@@ -10,6 +10,8 @@ What is the difference between a static unit like `px` and a responsive unit lik
 
 Describe what makes a unit responsive and why that matters when building a website.
 
+The difference is px never changes makes it not responsive, % or vh are responsive static unit because they can change their size based on the screen size.
+
 
 
 
@@ -34,6 +36,7 @@ Look at these two CSS rules:
 ```
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
+
 
 
 
